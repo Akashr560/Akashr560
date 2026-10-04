@@ -24,8 +24,6 @@ https://www.hackerrank.com/profile/akashr_cs23
 🟠 **LeetCode:**  
 https://leetcode.com/u/Akashr20/
 
-🐙 **GitHub:**  
-https://github.com/Akashr560
 
 ---
 
